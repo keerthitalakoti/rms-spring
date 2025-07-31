@@ -142,13 +142,4 @@ src/main/java/org/zeta/RestaurantManagement/
 ````
 
 
-## GitHub Repository
 
-> [https://github.com/keerthitalakoti/RestaurantManagement](https://github.com/YOUR_USERNAME/RestaurantManagement)
-
----
-
-
-
-# rms-spring
-# rms-spring
